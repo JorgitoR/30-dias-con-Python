@@ -73,11 +73,9 @@
 
 
 [website]: 
-[twitter]: 
 [youtube]:
-[instagram]:
-[facebook]:
+[twitter]: 
 [linkedin]:
-[djangolista]
-[jslista]
+[facebook]:
+
 
