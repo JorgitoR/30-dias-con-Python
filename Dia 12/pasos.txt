@@ -1,0 +1,31 @@
+en nuestra consola.
+>>> python3
+>>>import requests
+>>> url = ""
+>>> r = requests.get(url)
+>>>r.status_code
+>>>t.text
+
+python3 -m pip install requests-html it´s most better thant BeautiFulSoup
+
+
+html_texto = r.text
+    La linea de arriba me muestra el texto html.
+
+
+for i, x in enumerate(cols):
+    print(i, x, '\n\n')
+
+    Este codigo me regala la numeracion de cada iteracion en el bucle, similar al siguiente
+    codigo con count
+
+count = 0
+for i in cols:
+    count += 1
+
+para instalar pandas
+python3 -m pip install pandas
+
+
+assert isinstance
+    
