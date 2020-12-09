@@ -73,10 +73,11 @@
 
 
 
+
 [website]: https://github.com/JorgitoR  
 [youtube]: https://www.youtube.com/channel/UC-0f0AT2xJrUxML6HJTH3Iw?view_as=subscriber
-[twitter]: 
-[linkedin]:
-[facebook]:
+[twitter]: https://twitter.com/JorgitoCode  
+[linkedin]: https://www.linkedin.com/in/jorge-luis-uribe-rodriguez-2a66b81a4/
+[facebook]: https://www.facebook.com/groups/2753661358247630
 
 
