@@ -1,0 +1,8 @@
+MoviePy necesita dos paquetes
+1. ImageMagick
+2. ffmpeg
+
+mkdir crear directorio
+
+Instalamos 
+pipenv install pillow
